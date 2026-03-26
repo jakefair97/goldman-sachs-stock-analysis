@@ -180,6 +180,24 @@ ORDER BY Month;
 
 ---
 
+## Key Findings
+
+### Broad Historical Analysis
+- GS stock closed higher than it opened on **3,433 out of 6,755 trading days (50.82%)**, suggesting a slight but consistent long-term upward bias
+- The **biggest single-day gain was $64.18** (April 9, 2025) and the **biggest single-day loss was $52.16** (February 27, 2026), both occurring in recent years reflecting elevated price levels
+
+### 2008 Financial Crisis
+- The crisis had a dramatic impact on both price and volume. Average quarterly closing price fell from **$163.06 in Q4 2007** to a low of **$64.02 in Q4 2008** — a decline of approximately **61%** in just one year
+- Trading volume surged in lockstep with the price collapse. Average quarterly volume spiked from **7.8M in Q1 2007** to a peak of **25.9M in Q1 2009**, more than tripling as panic selling accelerated
+- The highest single volume day during the crisis was **September 18, 2008** with over **114.5 million shares traded** — the same week Lehman Brothers collapsed — with GS closing at $79.86
+- By **November 20, 2008**, GS stock had fallen to an average close of just **$38.57**, representing the floor of the crisis period
+
+### Recovery
+- Recovery was slow and uneven. Despite an initial rebound in 2009, GS stock did not consistently trade above its **2007 average closing price of $155.32** until **April 2015** — nearly **seven years after the crisis peak**
+- The recovery was further disrupted in 2011-2012, when average monthly closing prices fell back below $80, suggesting that broader macroeconomic headwinds continued to suppress GS stock well after the initial crisis
+
+---
+
 ## About
 Analysis conducted by Jacob Fairweather as part of a data analytics portfolio project.  
 [LinkedIn](https://www.linkedin.com/in/jacob-fairweather/) | [Tableau](https://public.tableau.com/app/profile/jacob.fairweather/vizzes) | [GitHub](https://github.com/jakefair97)
