@@ -9,6 +9,7 @@ The analysis is structured in two parts:
 ---
 
 ## Dataset
+- **URL:** https://www.kaggle.com/datasets/anadiskt/goldman-sachs-gs-stock-data-19992026
 - **Source:** Barchart (via proxy)
 - **Table:** `g-sachs.fin_sheets.master_dataset`
 - **Fields:** Date, Open, High, Low, Close, Volume, Dividends, Stock Splits, Source
